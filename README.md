@@ -41,9 +41,14 @@ The following are features in the wine quality data set:
 
 • Quality
 
-## Library:
+## Library used:
+
 Pandas is a useful library in data handling.
+
 Numpy library used for working with arrays.
+
 Seaborn/Matplotlib are used for data visualisation purpose.
+
 Sklearn - This module contains multiple libraries having pre-implemented functions to perform tasks from data preprocessing to model development and evaluation.
+
 XGBoost - This contains the eXtreme Gradient Boosting machine learning algorithm which is one of the algorithms which helps us to achieve high accuracy on predictions.

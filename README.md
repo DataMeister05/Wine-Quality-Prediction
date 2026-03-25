@@ -1,18 +1,33 @@
 # Wine Quality Prediction - Machine Learning
 In this project using machine learning to predict the quality of wine on the basis of given feature.
 
-## Approach~
+
+## Approach
 
 • Data Preprocessing: Cleaned and standardized data for model training.
 
 • EDA: Visualized relationships between chemical features and wine quality.
 
-• Modeling: Tested RandomForestClassifier model.
+• Modeling: Tested  Logistic Regression and SVM model.
 
-• Evaluation: Assessed models using accuracy_score.
+• Evaluation: Assessed models using predicted quality.
 
 ## Dataset: 
 The following is dataset: winequalityN.csv
+
+The following are features in the wine quality data set: 
+• Fixed acidity
+• Volatile acidity
+• Citric acid
+• Residual sugar
+• Chlorides
+• Free sulfur dioxide
+• Total sulfur dioxide
+• Density
+• pH
+• Sulphates
+• Alcohol
+• Quality
 
 ## Library:
 Pandas is a useful library in data handling.

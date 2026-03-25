@@ -18,16 +18,27 @@ The following is dataset: winequalityN.csv
 The following are features in the wine quality data set: 
 
 • Fixed acidity
+
 • Volatile acidity
+
 • Citric acid
+
 • Residual sugar
+
 • Chlorides
+
 • Free sulfur dioxide
+
 • Total sulfur dioxide
+
 • Density
+
 • pH
+
 • Sulphates
+
 • Alcohol
+
 • Quality
 
 ## Library:

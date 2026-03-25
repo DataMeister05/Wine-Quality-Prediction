@@ -16,6 +16,7 @@ In this project using machine learning to predict the quality of wine on the bas
 The following is dataset: winequalityN.csv
 
 The following are features in the wine quality data set: 
+
 • Fixed acidity
 • Volatile acidity
 • Citric acid
